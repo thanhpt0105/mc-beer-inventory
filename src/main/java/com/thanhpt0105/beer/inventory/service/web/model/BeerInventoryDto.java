@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service.web.model;
+package com.thanhpt0105.beer.inventory.service.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
